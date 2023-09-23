@@ -1,4 +1,4 @@
-# Webpack gyakarló feladat
+# Vite gyakarló feladat
 
 ## Telepítés
 
