@@ -28,4 +28,17 @@ body {
 #gratulalunk {
     background-color: orange;
     padding: 10px;
+    margin-bottom: 15px;
+}
+
+#homoktovis {
+    background-color: white;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+#homoktovis_kepek img {
+    width: 100%;
+    margin: 0px !important;
+    padding: 0px !important;
 }
