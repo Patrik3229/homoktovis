@@ -60,4 +60,11 @@ body {
 #standarddiv {
     background-color: white;
     padding: 15px;
+    text-align: justify;
+}
+
+#ellenjavaslat {
+    background-color: orange;
+    padding: 15px;
+    margin-top: 15px;
 }
