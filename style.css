@@ -16,10 +16,16 @@ body {
     height: 60px;
     justify-content: center;
     align-items: center;
+    margin-bottom: 15px;
 }
 
 #menusor a {
     font-style: italic;
     text-decoration: none;
     color: orange;
+}
+
+#gratulalunk {
+    background-color: orange;
+    padding: 10px;
 }
