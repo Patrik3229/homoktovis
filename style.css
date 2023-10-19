@@ -42,3 +42,22 @@ body {
     margin: 0px !important;
     padding: 0px !important;
 }
+
+#homoktovis_kepek {
+    margin-bottom: 15px;
+}
+
+#csodanoveny {
+    background-color: orange;
+    padding: 15px;
+}
+
+#tudtae {
+    background-color: orange;
+    padding: 15px;
+}
+
+#standarddiv {
+    background-color: white;
+    padding: 15px;
+}
