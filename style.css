@@ -2,10 +2,24 @@ body {
     background-image: url(images/hatter.png);
 }
 
-#fejlec{
+#fejlec {
     background-color: orange;
     text-align: center;
     height: 200px;
     justify-content: center;
     align-items: center;
+    margin-bottom: 30px;
+}
+
+#menusor {
+    background-color: white;
+    height: 60px;
+    justify-content: center;
+    align-items: center;
+}
+
+#menusor a {
+    font-style: italic;
+    text-decoration: none;
+    color: orange;
 }
